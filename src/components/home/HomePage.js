@@ -4,8 +4,8 @@ export default class HomePage extends Component{
   render(){
     return (
     <div className="container">
-      <h1>Home Page</h1>
-      <p>This is the home page. Right on!</p>
+      <h1>Bachelor Bracket</h1>
+      <p>more about rhe bracket</p>
     </div>
     );
   }
